@@ -16,5 +16,5 @@ Quickstart from https://quickstarts.snowflake.com/guide/data_engineering_with_ap
 - Part 4: Create the csv in the seeds folder. Data is deprecated.
 
 ### References
-[To understand Macros and Ref](https://medium.com/@rasiksuhail/exploring-about-macros-ref-in-dbt-11bce7448c92) 
-[Seeds] (https://www.youtube.com/watch?v=CWetaAaEdKw&ab_channel=KahanDataSolutions)
+- [To understand Macros and Ref](https://medium.com/@rasiksuhail/exploring-about-macros-ref-in-dbt-11bce7448c92) 
+- [Seeds](https://www.youtube.com/watch?v=CWetaAaEdKw&ab_channel=KahanDataSolutions)
